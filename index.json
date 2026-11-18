@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "description": "Glow Gem and Glow Berries, new status effects, potions, brewing, enchantments, a biome and custom audio.",
+      "files": [
+        {
+          "asset": "mod.lcm",
+          "path": "mod.lcm",
+          "sha256": "24db8b14bfa2caf42634a304c581218167af79a258f12dcc69a37b507c01a306",
+          "size": 25816,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/newretail-v1.0.0/mod.lcm"
+        },
+        {
+          "asset": "mod.json",
+          "path": "mod.json",
+          "sha256": "388874a1ba98a33c3cd6344ab43740651dc1acf76e1adb69f2e1672b874d1147",
+          "size": 3378,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/newretail-v1.0.0/mod.json"
+        }
+      ],
+      "id": "newretail",
+      "name": "New Retail Registries",
+      "version": "1.0.0"
+    },
+    {
       "description": "Example mod-loader mod: Ruby, Ruby Nugget and Ruby Wand with crafting recipes.",
       "files": [
         {

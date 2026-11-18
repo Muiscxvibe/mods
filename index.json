@@ -4,18 +4,18 @@
       "description": "Example mod-loader mod: Ruby, Ruby Nugget and Ruby Wand with crafting recipes.",
       "files": [
         {
-          "asset": "rubyretail__mod.json",
-          "path": "rubyretail/mod.json",
+          "asset": "mod.json",
+          "path": "mod.json",
           "sha256": "53589bbaddad586b45bfd9353134dbc0fdd2c1baa540e9ce937d1f5f1784743a",
           "size": 1875,
-          "url": "https://github.com/Muiscxvibe/mods/releases/download/rubyretail-v1.0.0/rubyretail__mod.json"
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/rubyretail-v1.0.0/mod.json"
         },
         {
-          "asset": "rubyretail__mod.lcm",
-          "path": "rubyretail/mod.lcm",
+          "asset": "mod.lcm",
+          "path": "mod.lcm",
           "sha256": "d787d783d59e56325f3bda3acf63a80f0de0890239dd9d610105b99fc33c78fa",
           "size": 4168,
-          "url": "https://github.com/Muiscxvibe/mods/releases/download/rubyretail-v1.0.0/rubyretail__mod.lcm"
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/rubyretail-v1.0.0/mod.lcm"
         }
       ],
       "id": "rubyretail",

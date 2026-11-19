@@ -28,21 +28,21 @@
         {
           "asset": "mod.lcm",
           "path": "mod.lcm",
-          "sha256": "24db8b14bfa2caf42634a304c581218167af79a258f12dcc69a37b507c01a306",
-          "size": 25816,
-          "url": "https://github.com/Muiscxvibe/mods/releases/download/newretail-v1.0.0/mod.lcm"
+          "sha256": "0d24ec61acb9f8178eea4d3b7fd3cfdab10d20fedb33fd3baab26686a782e1fa",
+          "size": 26860,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/newretail-v1.0.1/mod.lcm"
         },
         {
           "asset": "mod.json",
           "path": "mod.json",
-          "sha256": "388874a1ba98a33c3cd6344ab43740651dc1acf76e1adb69f2e1672b874d1147",
-          "size": 3378,
-          "url": "https://github.com/Muiscxvibe/mods/releases/download/newretail-v1.0.0/mod.json"
+          "sha256": "a442f798da057b24ed972a9dd559c1d03a4a9d705e21d932589f3b36c46f80cd",
+          "size": 3432,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/newretail-v1.0.1/mod.json"
         }
       ],
       "id": "newretail",
       "name": "New Retail Registries",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "description": "SDK test mod: items, block, recipes, smelting, brewing, mob, features, particles, sound, structure, script.",

@@ -6,21 +6,21 @@
         {
           "asset": "mod.lcm",
           "path": "mod.lcm",
-          "sha256": "17408c83c4c5d0b8b440faef3817e41b78011c4125888443903d21ca875b8cb1",
-          "size": 3100,
-          "url": "https://github.com/Muiscxvibe/mods/releases/download/blockstates-v1.0.0/mod.lcm"
+          "sha256": "7c7adc7019cea7831f4085ed1fd4f8fc2addb81abb872e0eca1d1871e94e593b",
+          "size": 7324,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/blockstates-v1.0.1/mod.lcm"
         },
         {
           "asset": "mod.json",
           "path": "mod.json",
-          "sha256": "6b15a747f036c4994e62ff3bd9443c4eca84c38b857ced27301bad6decc177b5",
-          "size": 1779,
-          "url": "https://github.com/Muiscxvibe/mods/releases/download/blockstates-v1.0.0/mod.json"
+          "sha256": "88e1acf4ccf299bfb3b90a31cd87ed0353dbda85d0fee0ee68434963bc76609b",
+          "size": 2134,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/blockstates-v1.0.1/mod.json"
         }
       ],
       "id": "blockstates",
       "name": "Block States (SDK test)",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "description": "Glow Gem and Glow Berries, new status effects, potions, brewing, enchantments, a biome and custom audio.",

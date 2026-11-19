@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "description": "SDK test mod: blocks with variants, slab-style boxes, see-through and walk-through blocks.",
+      "files": [
+        {
+          "asset": "mod.lcm",
+          "path": "mod.lcm",
+          "sha256": "17408c83c4c5d0b8b440faef3817e41b78011c4125888443903d21ca875b8cb1",
+          "size": 3100,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/blockstates-v1.0.0/mod.lcm"
+        },
+        {
+          "asset": "mod.json",
+          "path": "mod.json",
+          "sha256": "6b15a747f036c4994e62ff3bd9443c4eca84c38b857ced27301bad6decc177b5",
+          "size": 1779,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/blockstates-v1.0.0/mod.json"
+        }
+      ],
+      "id": "blockstates",
+      "name": "Block States (SDK test)",
+      "version": "1.0.0"
+    },
+    {
       "description": "Glow Gem and Glow Berries, new status effects, potions, brewing, enchantments, a biome and custom audio.",
       "files": [
         {

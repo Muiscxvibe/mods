@@ -23,6 +23,28 @@
       "version": "1.0.0"
     },
     {
+      "description": "SDK test mod: items, block, recipes, smelting, brewing, mob, features, particles, sound, structure, script.",
+      "files": [
+        {
+          "asset": "mod.lcm",
+          "path": "mod.lcm",
+          "sha256": "522c188a7d61303ab3a59ac771b953a468e289b159b44e193c769f9f7854206c",
+          "size": 4896,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/retailall-v1.0.0/mod.lcm"
+        },
+        {
+          "asset": "mod.json",
+          "path": "mod.json",
+          "sha256": "cf39f8302bf6421d647601668dfec0d5c971db9e99129ef7bf4483d253aece74",
+          "size": 4915,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/retailall-v1.0.0/mod.json"
+        }
+      ],
+      "id": "retailall",
+      "name": "Retail All (SDK test)",
+      "version": "1.0.0"
+    },
+    {
       "description": "Example mod-loader mod: Ruby, Ruby Nugget and Ruby Wand with crafting recipes.",
       "files": [
         {

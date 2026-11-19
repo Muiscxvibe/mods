@@ -50,21 +50,21 @@
         {
           "asset": "mod.lcm",
           "path": "mod.lcm",
-          "sha256": "522c188a7d61303ab3a59ac771b953a468e289b159b44e193c769f9f7854206c",
-          "size": 4896,
-          "url": "https://github.com/Muiscxvibe/mods/releases/download/retailall-v1.0.0/mod.lcm"
+          "sha256": "d55c74cd4796324988c9c38851abc5d0976464f93cb515e762b9b37107a819a7",
+          "size": 10140,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/retailall-v1.0.1/mod.lcm"
         },
         {
           "asset": "mod.json",
           "path": "mod.json",
-          "sha256": "cf39f8302bf6421d647601668dfec0d5c971db9e99129ef7bf4483d253aece74",
-          "size": 4915,
-          "url": "https://github.com/Muiscxvibe/mods/releases/download/retailall-v1.0.0/mod.json"
+          "sha256": "c0303b0ac2f6859660e421955d5e2ae66709c357106c1c53286aae66780f0c10",
+          "size": 5175,
+          "url": "https://github.com/Muiscxvibe/mods/releases/download/retailall-v1.0.1/mod.json"
         }
       ],
       "id": "retailall",
       "name": "Retail All (SDK test)",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "description": "Example mod-loader mod: Ruby, Ruby Nugget and Ruby Wand with crafting recipes.",
